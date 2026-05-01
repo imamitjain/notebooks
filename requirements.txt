@@ -1,0 +1,32 @@
+# Core - Jupyter
+jupyter
+notebook
+ipykernel
+
+# Data Science
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning (PyTorch)
+torch
+torchvision
+
+# LLM / NLP
+transformers
+datasets
+tokenizers
+accelerate
+langchain
+langchain-community
+langchain-openai
+openai
+sentence-transformers
+
+# Utilities
+tqdm
+ipywidgets
